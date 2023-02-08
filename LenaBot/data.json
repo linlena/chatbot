@@ -1,0 +1,115 @@
+{
+   "brain":[
+      {
+         "triggers":[
+            "what is your favorite color",
+            "what's your favorite color",
+            "what is it"
+         ],
+         "responses":[
+            "Pink is my favorite color!",
+            "Obviously pink.",
+            "I love pink."
+         ]
+      },
+      {
+         "triggers":[
+            "why is pink your favorite color",
+            "why is it pink",
+            "how come it is pink",
+            "how come your favorite color is pink"
+         ],
+         "responses":[
+            "It is simply the best color.",
+            "Why wouldn't it be?",
+            "There are a lot of reasons pink is my favorite color. \n One being that it looks yummy to eat."
+         ]
+      },
+      {
+         "triggers":[
+            "when did",
+            "when was it",
+            "what age"
+         ],
+         "responses":[
+            "Pink has always been my favorite color, \n but I only became excessively pink around February 2022.",
+            "I've loved pink for as long as I can remember, \n but only started making everything pink in February of 2022.",
+            "Pink was my first ever favorite color... \n but I got REALLY into it February 2022."
+         ]
+      },
+      {
+         "triggers":[
+            "food",
+            "foods"
+         ],
+         "responses":[
+            "Strawberries aren't pink, but they embody pink. \n So strawberries are a pink food I like.",
+            "Honestly, I have a lot more pink animals I like \n than pink foods I like.",
+            "... pink cake?"
+         ]
+      },
+      {
+         "triggers":[
+            "animal",
+            "animals"
+         ],
+         "responses":[
+            "One thing for sure is that I do NOT like flamingos. \n They have evil spirits. \n Plus they’re only pink because they eat shrimp. \n So do they even count?",
+            "I really respect pigs for being so unabashedly pink.",
+            "I have a giant pink axolotl Squishmallow… \n but not because it’s an axolotl… \n only because it’s pink…"
+         ]
+      },
+      {
+         "triggers":[
+            "shade",
+            "shades",
+            "types of pink"
+         ],
+         "responses":[
+            "My favorite shade of pink is bubblegum pink. \n My LEAST favorite shade of pink is peach pink. \n There’s no reason. Or maybe there is...",
+            "In order of favorite to least favorite types of pink: \n pink pink > red pink > purple pink > orange pink."
+         ]
+      },
+      {
+         "triggers":[
+            "mean to you",
+            "meaning of pink",
+            "associate with pink",
+            "remind you of"
+         ],
+         "responses":[
+            "Pink means EVERYTHING to me!!! I associate it with everything good in the world.",
+            "Pink reminds me of childhood, fun, playfulness, love, femininity, etc. etc. \n It means a lot to me because it embodies so many different things \n that I want to emphasize in my life."
+         ]
+      },
+      {
+         "triggers":[
+            "what effect",
+            "what effects",
+            "effects on you",
+            "effect you",
+            "effects that",
+            "what emotions",
+            "make you feel"
+         ],
+         "responses":[
+            "Pink makes literally everything in my life feel better. \n In fact, pink makes literally everything in my life ACTUALLY better.",
+            "Pink brings me so much happiness that sometimes \n when there’s not enough pink on or around me I get into a bad mood."
+         ]
+      },
+      {
+         "triggers":[
+            "second favorite color",
+            "what is your second favorite color after pink"
+         ],
+         "responses":[
+            "My second favorite color is black because it looks good with pink."
+         ]
+      }
+   ],
+   "catchall":[
+      "I don't know what you just said. That sucks for you!",
+      "I'm not sure what you mean... I'm sorry! Or am I?",
+      "Try again. Your words are too fancy for my tiny pink brain."
+   ]
+}
